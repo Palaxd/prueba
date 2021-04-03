@@ -1,0 +1,8 @@
+/* comentrio en css*/
+body{
+    background-color: rgb(35, 90, 225) ;
+    /*tambien se puede usar el codigo: #235AE1*/
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-left: 50px;
+}
